@@ -9,4 +9,4 @@ Orginal Version can be found on telegram as [Marie](https://t.me/BanhammerMarie_
 
 ## You can tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prgofficial/ADMINbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zigzag85/ADMINbot)
